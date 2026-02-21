@@ -203,12 +203,18 @@ footer {
     opacity: 0.8;
 }
 
+/* style.css の一番下に貼る */
 @media (max-width: 768px) {
-    .hero {height: 80vh;}
-    .hero-title {font-size: 28px;}
-    .nav {display: none;}
-    .nav-list {
-        flex-direction: column;
-        gap: 16px;
-    }
+  .header-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .nav-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
 }
