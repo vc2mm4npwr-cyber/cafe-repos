@@ -207,4 +207,8 @@ footer {
     .hero {height: 80vh;}
     .hero-title {font-size: 28px;}
     .nav {display: none;}
+    .nav-list {
+        flex-direction: column;
+        gap: 16px;
+    }
 }
