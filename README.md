@@ -9,12 +9,12 @@
 ---
 
 ## デモ
-（GitHub Pages のURL）
+https://vc2mm4npwr-cyber.github.io/cafe-repos/
 
 ---
 
 ## GitHub
-（リポジトリURL）
+https://github.com/vc2mm4npwr-cyber/cafe-repos
 
 ---
 
